@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Writer, and Digital Marketing intern at [The Wa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun facts: I'm currently studying Frontend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022; and a Software Development Fellow at [Women Techsters Fellowship](https://www.womentechsters.org/programs.html) Class of 2023 by [Tech4dev](https://tech4dev.com/). I enjoy playing scrabble.
+- 💡 Fun facts: I'm currently studying Frontend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022; and a Software Development Fellow at [Women Techsters Fellowship](https://www.womentechsters.org/programs.html) Class of 2023 by [Tech4dev](https://tech4dev.com/). When I am not coding, I enjoy playing scrabble, watching (christian and funny) videos on YouTube, journaling, meditating and checking on friends.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
